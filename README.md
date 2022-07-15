@@ -1,3 +1,3 @@
 # Demo 
 
-Practice survey form for a family BBQ.
+Basic HTML/CSS practice survey form for a family BBQ.
